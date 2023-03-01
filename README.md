@@ -2,16 +2,7 @@
 An example of machine learning, trained to recognize cats and dogs.
 
 <
-
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Machine Learning</title>
-</head>
-<body>
-    <div>Teachable Machine Image Model</div>
+<div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
 <div id="label-container"></div>
@@ -70,7 +61,4 @@ An example of machine learning, trained to recognize cats and dogs.
         }
     }
 </script>
-
-</body>
-</html>
 >
