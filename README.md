@@ -2,7 +2,7 @@
 An example of machine learning, trained to recognize cats and dogs.
 
 <
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
