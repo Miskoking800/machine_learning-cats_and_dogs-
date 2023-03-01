@@ -1,6 +1,7 @@
 # machine_learning-cats_and_dogs-
 An example of machine learning, trained to recognize cats and dogs.
 
+<
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -72,3 +73,4 @@ An example of machine learning, trained to recognize cats and dogs.
 
 </body>
 </html>
+>
